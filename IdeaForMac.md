@@ -1,23 +1,23 @@
-Mac键盘符号和修饰键说明
-⌘ Command
-⇧ Shift
-⌥ Option
-⌃ Control
-↩︎ Return/Enter
-⌫ Delete
-⌦ 向前删除键（Fn+Delete）
-↑ 上箭头
-↓ 下箭头
-← 左箭头
-→ 右箭头
-⇞ Page Up（Fn+↑）
-⇟ Page Down（Fn+↓）
-Home Fn + ←
-End Fn + →
-⇥ 右制表符（Tab键）
-⇤ 左制表符（Shift+Tab）
-⎋ Escape (Esc)
-一、Editing（编辑）
+Mac键盘符号和修饰键说明  
+⌘ Command  
+⇧ Shift  
+⌥ Option  
+⌃ Control  
+↩︎ Return/Enter  
+⌫ Delete  
+⌦ 向前删除键（Fn+Delete）  
+↑ 上箭头  
+↓ 下箭头  
+← 左箭头  
+→ 右箭头  
+⇞ Page Up（Fn+↑）  
+⇟ Page Down（Fn+↓）  
+Home Fn + ←  
+End Fn + →  
+⇥ 右制表符（Tab键）  
+⇤ 左制表符（Shift+Tab）  
+⎋ Escape (Esc)  
+一、Editing（编辑）  
 ⌃Space 基本的代码补全（补全任何类、方法、变量）
 ⌃⇧Space 智能代码补全（过滤器方法列表和变量的预期类型）
 ⌘⇧↩ 自动结束代码，行末自动添加分号
